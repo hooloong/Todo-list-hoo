@@ -13,7 +13,7 @@
         <!--Item Table View Controller-->
         <scene sceneID="qLK-fZ-o4c">
             <objects>
-                <tableViewController id="Djv-Pz-MGY" customClass="ItemTableViewController" sceneMemberID="viewController">
+                <tableViewController id="Djv-Pz-MGY" customClass="ItemTableViewController" customModule="Todo_list_hoo" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="74" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="tbE-b7-ZhU">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
